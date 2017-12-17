@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513544715 source:/home/jeyster/Bureau/Code/C++/zfraction-tuto-zero/main.cpp
+	<iostream>
+	"ZFraction.h"
+	"overload.h"
+
+1513545436 /home/jeyster/Bureau/Code/C++/zfraction-tuto-zero/ZFraction.h
+	<iostream>
+
+1513545500 source:/home/jeyster/Bureau/Code/C++/zfraction-tuto-zero/ZFraction.cpp
+	<iostream>
+	<math.h>
+	"ZFraction.h"
+	"overload.h"
+
+1513544178 /home/jeyster/Bureau/Code/C++/zfraction-tuto-zero/overload.h
+	<ostream>
+	"ZFraction.h"
+
+1513543703 source:/home/jeyster/Bureau/Code/C++/zfraction-tuto-zero/overload.cpp
+	<ostream>
+	"ZFraction.h"
+
